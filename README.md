@@ -3,7 +3,7 @@ The Markdown Resume
 
 ### Instructions
 ```bash
-git clone https://github.com/mszep/pandoc_resume
+git clone https://github.com/cjk/pandoc_resume
 cd pandoc_resume
 vim markdown/resume.md   # insert your own resume info
 make
@@ -11,7 +11,7 @@ make
 
 ### Running Dockerized
 ```bash
-git clone https://github.com/mszep/pandoc_resume
+git clone https://github.com/cjk/pandoc_resume
 cd pandoc_resume
 vim markdown/resume.md   # insert your own resume info
 docker-compose up -d
