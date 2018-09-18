@@ -1,100 +1,109 @@
-Johnny Coder
-============
+# Claus Klingberg
 
-----
+---
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Senior IT-Berater und Software-Entwickler mit internationaler Projekterfahrung
 
-----
+---
 
-Education
----------
+## Schwerpunkte
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+- Agile Projekte (als Scrum-Master, Product-Owner, Entwickler)
+- Software–Architekturen planen und umsetzen
+- Webentwicklung/Design, insbesondere ambitionierte & dynamische Webanwendungen (PWA - Progressive-Web-Apps)
+- Umgang mit Datenbanken (Planung/Design), ob relational oder Key-Value-Stores
+- Javascript, Ruby, Java, Elixir und insbesondere funktionale Methoden und Vorgehensweisen
+- Lange Erfahrung mit vielen Frameworks, Libraries und Anwendungen - u.a. React, Redux, EmberJS, Functional-Reactive programming, Java, HTML5, CSS3, jQuery, WordPress, SQL, XML, relationalen und NoSQL-Datenbanken
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+## Beruflicher Werdegang
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Okt. 2014 bis heute
+: **Senior IT-Berater und Architekt**; selbstständig
 
-    *Minor: Awesomeology*
+    * Architektur, Design und Realisierung
 
-Experience
-----------
+      * Planung, Design und Umsetzung einer hoch-performanten, skalierbaren und clusterfähigen Volltext-Recherche für ein Automotive Ersatzteil-System Suche über Millionen von Teilestämmen, Filterung nach > 50 Millionen Fahrzeugkombinationen
 
-**Your Most Recent Work Experience:**
+    * Anforderungsmanagement, Design und Koordination Betrieb
+      * Daimler AG: Architektur und Planung mehrerer RESTful-Webservice APIs im Rahmen der Ablösung eines Legacy-Systems zur Teileverwaltung
+      * Aufbau einer skalierbaren Webservice-Architektur für den Zugriff von Werkstätten weltweit zur Teile-Recherche und/oder Ersatzteilbestellungen (> 500.000 Retail-Benutzer)
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+    * Rolle des IT-Product-Owner zur Aufnahme, Bewertung und Abstimmung der Anforderungen seitens unterschiedlicher Abnehmer / Konsumenten
 
-* First item
+    * Software-Entwicklung
+      * Porsche AG: Verbesserung von Anwendungen zur internen Fahrzeug-Erprobung
+      * Weiterentwicklung bestehender Web- und Rich-Clients auf Basis von .NET und C# und MS-SQL-Server
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Senior IT-Berater und Architekt - 2013 bis 2014
+: **IT.TEM GmbH**
 
-**That Other Job You Had**
+    * Daimler AG, ITS: Planung + eigenständige Entwicklung der Front- und Backend-Komponenten für ein neues Trouble-Ticket-System.
+      * Entwicklung der Frontend-Anwendung als Browser-basierte, mobil-fähige Internet-Rich-Client Anwendung mittels EmberJS
+      * Design + Aufbau des Backends als JEE-Anwendung auf Websphere-Basis
+      * Modularer und schlanker Betrieb aller notwendigen Client- und Server-Komponenten auf VM-Basis bzw. mittels Container-Virtualisierung
 
-Also with a short description.
+Senior IT-Berater - 2001 bis 2013
+: **modern software consulting GmbH**
 
-Technical Experience
---------------------
+    * Daimler AG, ITS: Planung, Design + Umsetzung verschiedener Arbeitspakete im Rahmen des Projekts "Operational Excellence"
+      * Erstellen eines bindenden Service-Styleguides für eine skalierbare, flexible, AfterSales-weite Service-Infrastruktur
+      * Umsetzung verschiedener Service-APIs als RESTful Web-Services auf Basis der Java (JEE/Websphere) Plattform in einem kleinen Team
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+    * Daimler AG, GSP: Unterstützung beim Aufbau einer neuen IT-Infrastruktur im Grundlagenverbund
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Ablösung bestehender manueller / Excel-Prozesse durch eine Webanwendung
+      * Planung, Spezifikation, Entwicklung und produktiver Betrieb der Fachkonzepte und Software in kleinem (2 Personen) agilen Team
+      * Web-Anwendung im TDD-Verfahren auf Basis Ruby-On-Rails entwickelt
+      * Schnittstellen von/zu Vor- und Folgesystemen spezifiziert und umgesetzt
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+    * Spezifikation + Test eines Nachfolgesystems im Grundlagenverbund auf JEE-/Websphere + PAI-Basis
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+    * Daimler AG, GSP: Spezifikation, Test und Betriebsunterstützung Projekt TIPS
+      * Planung und Entwicklung der Stammdatenschnittstellen
+      * Beschreiben fachlicher Anforderungen und Dokumentation in Use-Cases und Diagrammen
+      * Erstellen von Transformations- und Reporting-Tools zum visualisieren von Datenbewegungen und Mengen
+      * Aufbau und Betrieb notwendiger Server-Komponenten basierend auf einer modularen Linux-Infrastruktur
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+freier IT-Berater und Entwickler - 1999 bis 2001
+: **[Hamilton College](http://www.hamilton.edu/), New York**
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+    * Entwicklung Campus-Deployment-Tool
+      * Eigenverantwortliche Entwicklung einer Software zur automatischen Konfiguration und Installation verschiedener Windows-Versionen
+      * Campus-weiter Betrieb auf über ~ 2000 Studenten-PCs
+      * Erweiterung des Deployment-Tools zum Betrieb auf anderen Colleges
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+    * Netzwerk-Management
+      * Router-/Switch Konfiguration (Cisco / 3com) des Campus-Netzwerkes
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Entwickler und Netzwerk-Architekt - 1997 bis 1999
+: **MetaComp GmbH**
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+    * Planung und Implementieren zahlreicher Netzwerk-Installationen
+    * Entwicklung der haus-eigenen Fakturierungs- und Logistikanwendung (MS-Access & SQL-Server**
 
-* Human Languages:
+## Ausbildung
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+**Allgemeine Hochschulreife am Max-Planck-Gymnasium in Böblingen, 1990**
 
-* Random tidbit
+**Staatl. geprüfter Informatiker (Wirtschaftsinformatik), Akademie für Datenverarbeitung in Böblingen, 1996**
 
-* Other sort of impressive-sounding thing you did
+## Außerfachliches Engagement
 
-----
+- Mitglied im Vorstand der [freien aktiven Schule a.d. Fildern](http://pieks-fas.de/) - 2009 bis heute
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+- Unterstützung zahlreicher Open-Source Projekte mit Codebeiträgen ([Github-Link](https://github.com/cjk))
+
+- Ausbildung zum Übungsleiter der [EWTO](http://www.wingtsunwelt.com/) - 1990 bis 1993
+
+## Sprachkenntnisse
+
+**Deutsch** - Muttersprache
+
+**Englisch** - Fließend
+
+**Chinesisch** - Grundkenntnisse
+
+---
+
+> <mailto:claus.klingberg@pobox.com> • +49 (0)176 42692859 • 48 Jahre alt\
+> Charlottenweg 16 - 71111 Waldenbuch
