@@ -2,7 +2,7 @@
 
 ---
 
-> Senior IT-Berater und Software-Entwickler mit internationaler Projekterfahrung
+> Senior IT-Berater, Data-Scientist und Software-Entwickler mit internationaler Projekterfahrung
 
 ---
 
@@ -20,8 +20,11 @@
 Okt. 2014 bis heute
 : **Senior IT-Berater und Architekt**; selbstständig
 
-    * Architektur, Design und Realisierung
+    * Aktuelles Projekt: Prototypische Umsetzung einer Progressive-Web-App auf Basis React mit Volltext-Recherche-Backend
+      * Frontend: Dynamische, Plattform-neutrale Web-App mit Server-Side-Rendering für hohe Performance
+      * Backend: Extrahieren, Aufbereiten und Indizieren von > 10 Millionen Teilestämmen als Basis für eine Volltext-basierte Ersatzteil-Suche (Basis ElasticSearch / Apache Lucene)
 
+    * Architektur, Design und Realisierung
       * Planung, Design und Umsetzung einer hoch-performanten, skalierbaren und clusterfähigen Volltext-Recherche für ein Automotive Ersatzteil-System Suche über Millionen von Teilestämmen, Filterung nach > 50 Millionen Fahrzeugkombinationen
 
     * Anforderungsmanagement, Design und Koordination Betrieb
@@ -105,5 +108,5 @@ Entwickler und Netzwerk-Architekt - 1997 bis 1999
 
 ---
 
-> <mailto:claus.klingberg@pobox.com> • +49 (0)176 42692859 • 48 Jahre alt\
+> <mailto:claus.klingberg@pobox.com> • +49 (0)176 42692859 • 49 Jahre alt\
 > Charlottenweg 16 - 71111 Waldenbuch
